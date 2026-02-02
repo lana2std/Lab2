@@ -11,4 +11,3 @@ The machine learning problem addressed in this lab is a classification problem.
 The goal is to classify iris flowers into one of three species based on their physical measurements.
 
 This lab focuses on understanding the machine learning workflow rather than model optimization.
-
